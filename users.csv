@@ -1,0 +1,28 @@
+USER_ID,USER_ROLE,EMAIL,FIRST_NAME,LAST_NAME,STREET_ADDRESS,CITY,STATE_PROVINCE,POSTAL_CODE,COUNTRY_ID
+300,manager,sking,Steven,King,2004 Charade Rd,Seattle,Washington,98199,US
+301,user,nkochhar,Neena,Kochhar,400 E Joppa Rd,Baltimore,Maryland,21286,US
+302,user,ldehaan,Lex,De Haan,1796 Tsing Tao,Muang Nonthaburi,,11111,CN
+303,technician,ahunold,Alexander,Hunold,2014 Jabberwocky Rd,Southlake,Texas,26192,US
+304,technician,bernst,Bruce,Ernst,2014 Jabberwocky Rd,Southlake,Texas,26192,US
+305,technician,daustin,David,Austin,2014 Jabberwocky Rd,Southlake,Texas,26192,US
+306,technician,vpatabal,Valli,Pataballa,2014 Jabberwocky Rd,Southlake,Texas,26192,US
+307,technician,dlorentz,Diana,Lorentz,2014 Jabberwocky Rd,Southlake,Texas,26192,US
+308,user,ngreenbe,Nancy,Greenberg,1810 Tucker Crt,Mumbai,Kar,361181,IN
+309,user,dfaviet,Daniel,Faviet,932 High St,Lancaster,Pennsylvania,17603,US
+310,user,jchen,John,Chen,1971 Limelight Blvd,Samutprakarn,,,TH
+311,user,isciarra,Ismael,Sciarra,Via Luminosa 162,Firenze,,361197,IT
+312,user,jmurman,Jose Manuel,Urman,Walpurgisstr 69,Munich,,81243,DE
+313,user,lpopp,Luis,Popp,Harmoniegasse 3,Baden-Daettwil,AG,3413,CH
+314,user,drapheal,Den,Raphaely,301 E Genesee Ave,Detroit,Michigan,48206,US
+315,user,akhoo,Alexander,Khoo,10315 Hickman Rd,Des Moines,Iowa,50322,US
+316,user,sbaida,Shelli,Baida,4715 Sprecher Rd,Madison,Wisconsin,53704,US
+317,user,eclabe,Emerson,Clabe,1118 Poplarwood Court,Orlando,Florida,32829,US
+318,user,ghimuro,Guy,Himuro,2720 Brewerton Rd,Syracuse,New York,13211,US
+319,user,kcolmena,Karen,Colmenares,1303 E University St,Bloomington,Indiana,47401,US
+320,user,jwhalen,Jennifer,Whalen,2800 Chicago Ave # 100,Minnepolis,Minnesota,55407,US
+321,user,mhartste,Michael,Hartstein,147 Spadina Ave,Toronto,Ontario,M5V 2L7,CA
+322,user,pfay,Pat,Fay,147 Spadina Ave,Toronto,Ontario,M5V 2L7,CA
+323,user,smavris,Susan,Mavris,8204 Arthur St,London,,,UK
+324,user,hbaer,Hermann,Baer,Schwanthalerstr. 7031,Munich,Bavaria,80925,DE
+325,user,shiggins,Shelley,Higgins,726 Union St,Hudson,New York,12534,US
+326,user,wgietz,William,Gietz,1126 Pawlings Rd,Norristown,Pennsylvania,19403,US

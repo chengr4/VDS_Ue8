@@ -1,0 +1,21 @@
+PROD_ID,NAME,IMAGE,DESCRIPTION
+100,Washing Machine W001,,1000 spin, A Energy at 40 Deg., 11lb/5kg capacity
+101,Washing Machine W003a,,1200 spin, A+ Energy at 40 Deg., 15lb/6kg capacity
+102,Washing Machine W017,,1400 spin, A Energy at 40 Deg., 11lb/5kg capacity
+103,Washing Machine T006,,Twin Tub, 800 spin, C Energy at 40 Deg., 10lb/4.5kg capacity
+104,Washer Dryer W001d,,1000 spin, A Energy at 40 Deg., 11lb/5kg capacity, 9lb/4kg drying capacity
+105,Washer Dryer W003d,,1200 spin, A+ Energy at 40 Deg., 15lb/6kg capacity, 11lb/5kg drying capacity
+106,Washer Dryer W017d,,1400 spin, A Energy at 40 Deg., 11lb/5kg capacity, 11lb/5kg drying capacity
+107,Dryer D003,,Vented, B+ Energy, 15lb/6kg capacity
+108,Dryer D011,,Condensing, A Energy, 11lb/5kg capacity
+109,Fridge F011s,,7.5 CUFT, A+ Energy, FF, Auto-Defrost, Silver
+110,Fridge F011w,,7.5 CUFT, A+ Energy, FF, Auto-Defrost, White
+111,Fridge F011b,,7.5 CUFT, A+ Energy, FF, Auto-Defrost, Black
+112,Fridge F004w,,4.5 CUFT, Under Counter, A++ Energy, FF, Auto-Defrost, White
+113,Fridge Freezer FZ007s,,4.5 / 1.5  CUFT, A+ Energy, FF, Auto-Defrost, Silver
+114,Fridge Freezer FZ007w,,4.5 / 1.5  CUFT, A+ Energy, FF, Auto-Defrost, White
+115,Freezer Z002s,,7.5 CUFT, A Energy, FF, Silver
+116,Freezer Z002w,,7.5 CUFT, A Energy, FF, White
+117,Freezer Z002b,,7.5 CUFT, A Energy, FF, Black
+118,Chest Freezer Z001w,,12.5 CUFT, B+ Energy, White
+119,Ice Maker I012,,30lb capacity storage bin, FF

@@ -1,0 +1,25 @@
+SVR_ID,LINE_NO,SVH_DATE,NOTES,SVH_TYPE,CREATED_BY
+100,1,29.07.2019,Had customer check hoses to see if they are leaking,Technician,303
+100,2,30.07.2019,Everything works it was the hose to washing machine connector,Customer,309
+100,3,31.07.2019,Maybe we should consider a recall on the hoses connectors,Hidden,300
+100,4,01.08.2019,I have seen this issue before, too and agree a recall is warranted ,Hidden,307
+101,1,20.07.2019,Asked customer to ensure the lid was closed,Technician,304
+101,2,21.07.2019,Problem is fixed,Customer,316
+102,1,29.07.2019,Called customer to make sure washer was plugged in - customer was not by the machine and will call back,Technician,304
+102,2,30.07.2019,We should modify the setup instructions to include a step to plug in the washer,Hidden,304
+103,1,23.07.2019,Had customer check hoses to see if they are leaking,Technician,307
+103,2,24.07.2019,Hose connectors faulty, it seems that the washer perished. Shipped new set to customer,Technician,307
+104,1,31.07.2019,Researching issue,Technician,305
+105,1,24.07.2019,Asked customer to check gas line,Technician,303
+105,2,27.07.2019,Gas line was not properly fitted,Customer,312
+106,1,10.07.2019,Customer did not have ice machine turned on,Technician,300
+107,1,31.07.2019,Customer will call back after checking for clogged drain hoses,Technician,306
+108,1,01.08.2019,Researching issue,Technician,304
+109,1,24.07.2019,Asked customer to check if freezer is plugged in,Technician,300
+109,2,26.07.2019,Freezer is plugged in, please suggest something else,Customer,320
+109,3,26.07.2019,Asked customer to set freezer temperature to lowest setting and check after 24 hours,Technician,300
+109,4,27.07.2019,Freezer is now cold,Customer,320
+110,1,30.07.2019,Asked customer to check the hinges,Technician,300
+111,1,01.08.2019,Referring to troubleshooting manual,Technician,300
+112,1,01.08.2019,I wonder if this is the lint filter block problem again?,Hidden,300
+112,2,02.08.2019,Need to call the customer to check the exact serial number. The lint filter issue was resolved after the -2300- series.,Hidden,307

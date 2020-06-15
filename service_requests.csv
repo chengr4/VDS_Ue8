@@ -1,0 +1,16 @@
+SVR_ID,STATUS,REQUEST_DATE,PROBLEM_DESCRIPTION,PROD_ID,CREATED_BY,ASSIGNED_TO,ASSIGNED_DATE
+100,Closed,23.07.2019,I have noticed that every time I do a wash there is a pool of water at the back of the machine,100,309,303,29.07.2019
+101,Closed,13.07.2019,Agitator does not work,101,316,304,20.07.2019
+102,Pending,28.07.2019,Washing Machine does not turn on,102,322,304,29.07.2019
+103,Closed,20.07.2019,Washing machine leaks,103,308,307,23.07.2019
+104,Open,31.07.2019,Spin cycle not draining,106,314,305,31.07.2019
+105,Closed,23.07.2019,Air in dryer not hot,107,312,303,24.07.2019
+106,Closed,09.07.2019,Ice machine not working,109,321,300,10.07.2019
+107,Pending,28.07.2019,Fridge is leaking,111,310,306,29.07.2019
+108,Open,29.07.2019,Freezer full of frost,114,317,304,31.07.2019
+109,Closed,23.07.2019,Freezer is not cold,115,320,300,24.07.2019
+110,Pending,29.07.2019,Freezer lid will not fully close,118,318,300,30.07.2019
+111,Open,31.07.2019,Defroster is not working properly,113,325,300,01.08.2019
+112,Open,31.07.2019,My Dryer does not seem to be getting hot,111,310,306,29.07.2019
+113,Open,01.08.2019,I'm getting a strange clicking sound when the washer enters full spin,100,309,,
+114,Open,01.08.2019,There seems to be a further problem, I can't seem to open the door for 5 minutes after the washer cycle has finished,100,309,,
